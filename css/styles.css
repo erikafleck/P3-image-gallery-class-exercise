@@ -1,2 +1,21 @@
 @charset "UTF-8";
 /* CSS Document */
+
+img {
+	width: 100%;
+	max-width: 100%;
+}
+/* Grid View */
+
+.col-md-3 {
+	position: relative;
+}
+
+.col-md-3 h3 {
+	background: rgba(255, 255, 255, .25);
+	padding: 10px 0;
+	position: absolute;
+		font-size: 16px;
+	top: 110px;
+	right: 0px;
+}
